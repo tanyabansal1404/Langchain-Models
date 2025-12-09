@@ -1,2 +1,2 @@
-# LangChain
+# Langchain
 Here’s to learning LangChain as a first step towards building applications in GenAI. LangChain is an open-source framework for building applications powered by Large Language Models (LLMs). All the knowledge I have gained about LangChain is credited to Nitish Singh from CampusX. I followed his playlist “Generative AI using LangChain” end to end. This playlist is freely available on YouTube.
